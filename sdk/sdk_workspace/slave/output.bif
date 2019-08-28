@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\TyphoonTravel\Desktop\MilaB\ZedBoard_SPI\sdk\sdk_workspace\fsbl\Debug\fsbl.elf
+	C:\Users\TyphoonTravel\Desktop\MilaB\ZedBoard_SPI\sdk\sdk_workspace\zedboard\design_1_wrapper.bit
+	C:\Users\TyphoonTravel\Desktop\MilaB\ZedBoard_SPI\sdk\sdk_workspace\slave\Debug\slave.elf
+}

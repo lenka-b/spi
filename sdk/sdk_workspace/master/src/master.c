@@ -215,7 +215,7 @@ void SpiSlaveWrite(u8 *Sendbuffer, int ByteCount)
 				++TransCount;
 				ByteCount--;
 		}
-		xil_printf("\r\n Buffer is filled.\r\n");
+		xil_printf("\rBuffer is filled.\r\n");
 
 
 		/*
